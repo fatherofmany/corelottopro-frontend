@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { ethers } from 'ethers';
-import './App.css';
+//import './App.css';
 import { 
   Wallet, Trophy, Users, Timer, DollarSign, Star, Zap,
   ArrowUpDown, Settings, ChevronDown, ChevronUp, Coins,
